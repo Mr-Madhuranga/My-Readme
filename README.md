@@ -30,6 +30,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/madhuranga-lakshan-883ab6329" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="aaa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23508022/madhuranga-lakshan" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="aaa" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/madhuranga-lakshan-883ab6329" target="blank"><img align="center" src="https://imgs.search.brave.com/bDnod1e8JdRgi36s5esRtjs9DFaK7KhCTE1ZbubX5qY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91eHdp/bmcuY29tL3dwLWNv/bnRlbnQvdGhlbWVz/L3V4d2luZy9kb3du/bG9hZC9icmFuZHMt/YW5kLXNvY2lhbC1t/ZWRpYS9mYWNlYm9v/ay1tZXNzZW5nZXIt/aWNvbi5zdmc" alt="aaa" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
